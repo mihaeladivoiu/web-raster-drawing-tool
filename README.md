@@ -1,34 +1,59 @@
 # 🖌️ Web Raster Drawing Tool
 
-This is a web-based drawing application built with HTML5 Canvas, JavaScript, and CSS. The project allows users to draw basic shapes (ellipse, rectangle and line), customize stroke and fill colors, change background color, and save the final artwork in JPEG or PNG format.
+A web-based drawing application built with HTML5 Canvas, JavaScript, and CSS.
 
-## 🎯 Features
-- Draw ellipses, rectangles and lines
-- Choose stroke and fill colors
-- Adjustable line width
-- Set background color
-- Save drawing as PNG or JPEG
-- Clear canvas functionality
-- Responsive and modern layout
+The application allows users to draw basic geometric shapes, customize their appearance, change the canvas background, and export the resulting drawing as a PNG or JPEG image.
 
-## 🚀 How to Use
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
-3. Use the toolbar on the left to choose colors, shape, and drawing settings.
+---
+
+## ✨ Features
+
+- Draw ellipses, rectangles, and lines
+- Customize stroke and fill colors
+- Adjust line width
+- Change the canvas background color
+- Clear the drawing canvas
+- Export drawings as PNG or JPEG
+- Responsive interface
+
+---
+
+## 🧰 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Canvas API**
+- **DOM API**
+- **Flexbox**
+
+---
+
+## 📁 Project Structure
+
+| File/Folder | Description |
+|---|---|
+| `index.html` | Main application structure |
+| `style.css` | Layout and interface styling |
+| `app.js` | Drawing logic and user interactions |
+| `media/` | Icons used by the drawing tools |
+
+---
+
+## ▶️ Running the Application
+
+No installation or additional dependencies are required.
+
+1. Clone or download the repository.
+2. Open `index.html` in a web browser.
+3. Select a drawing tool and customize its settings.
 4. Click and drag on the canvas to draw.
-5. Use "Save Picture" to download your work, or "Clear" to reset the canvas.
+5. Use the save functionality to export the drawing as PNG or JPEG.
 
-## 📁 File Structure
-- `index.html` – Main HTML structure of the app
-- `style.css` – Styling for layout and components
-- `app.js` – All the drawing logic and interactivity
-- `media/` – Icons for shape buttons (ellipse, rectangle, line)
+---
 
-## 📚 Technologies Used
-- HTML5
-- CSS3 (Flexbox)
-- JavaScript (DOM manipulation, Canvas API)
+## 👩‍💻 Author
 
-## 💼 About
-This project was created as part of a university multimedia course. It serves as a demonstration of basic interactive graphics and canvas manipulation using web technologies.
+**Mihaela-Irina Divoiu**
 
+Academic project developed at the Bucharest University of Economic Studies, Faculty of Economic Cybernetics, Statistics and Informatics, as part of a multimedia course.
